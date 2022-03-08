@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.8;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #410065;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-clock" data-name="Icon feather-clock" class="cls-1" transform="translate(1 1)">
+    <path id="Path_1" data-name="Path 1" class="cls-2" d="M27,15A12,12,0,1,1,15,3,12,12,0,0,1,27,15Z" transform="translate(-3 -3)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M18,9v8.25L23.5,20" transform="translate(-6.437 -4.667)"/>
+  </g>
+</svg>

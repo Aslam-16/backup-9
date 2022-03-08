@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.263" height="26" viewBox="0 0 27.263 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #410065;
+        stroke-width: 2px;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <path id="Icon_material-work" data-name="Icon material-work" class="cls-1" d="M25.737,8.053H20.684V5.526A2.518,2.518,0,0,0,18.158,3H13.105a2.518,2.518,0,0,0-2.526,2.526V8.053H5.526a2.507,2.507,0,0,0-2.514,2.526L3,24.474A2.518,2.518,0,0,0,5.526,27H25.737a2.518,2.518,0,0,0,2.526-2.526V10.579A2.518,2.518,0,0,0,25.737,8.053Zm-7.579,0H13.105V5.526h5.053Z" transform="translate(-2 -2)"/>
+</svg>
